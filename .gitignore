@@ -1,0 +1,13 @@
+/target
+
+/.idea
+*.iml
+*.iws
+/out
+
+/tmp
+/logs
+/.cache
+.cache
+/tmp
+/MovieRating-build
